@@ -1,7 +1,8 @@
 title: Jisan's homepage
 description: Bookmark this to keep an eye on my project-blog updates!
 theme: jekyll-theme-minimal
-
+baseurl: "/jisan002.github.io"
+url: "https://jisan002.github.io"
 
 collections:
   posts:
