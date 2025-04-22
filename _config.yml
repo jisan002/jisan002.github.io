@@ -1,6 +1,7 @@
 title: Jisan's homepage
 description: Bookmark this to keep an eye on my project-blog updates!
-Wanna get connected? My Facebook is [here](https://www.facebook.com/al.takvir.ahmed.jisan/), email [here](ajisan2330152@bsds.uiu.ac.bd)
+facebook_url: "https://www.facebook.com/al.takvir.ahmed.jisan/"
+email: "ajisan2330152@bsds.uiu.ac.bd"
 theme: jekyll-theme-minimal
 baseurl: ""
 url: "https://jisan002.github.io"
