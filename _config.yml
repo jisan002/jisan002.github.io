@@ -1,4 +1,8 @@
-title: "Jisan's Thinklab"
-description: "Bookmark this to keep an eye on my project-blog updates!"
+title: Jisan's homepage
+description: Bookmark this to keep an eye on my project-blog updates!
 theme: jekyll-theme-minimal
-show_downloads: false
+
+
+collections:
+  posts:
+    output: true
