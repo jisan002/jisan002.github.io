@@ -1,19 +1,10 @@
 ---
 layout: default
-title: Welcome
+title: Jisan's Homepage
 ---
 
-# 👋 Hi, I'm Jisan!
+# 📁 Blog Categories
 
-Welcome to my homepage. I’m currently studying Data Science at UIU and working on interesting data projects.  
-Check out my latest updates and blog posts here.  
-
-### 📌 Projects  
-- Project 1 — Description / [Link](#)
-- Project 2 — Description / [Link](#)
-
-### 🧠 Blog  
-- [My thoughts on X](#)
-- [What I learned from Y](#)
-
-> Bookmark this page to keep an eye on my project-blog updates!
+- [🧠 Machine Learning](/category/ml/)
+- [🐍 Proggrammin For Data Science](/category/python/)
+- [🚀 My thoughts and discovering's in spiritaul and religious stuffs](/category/islam/)
