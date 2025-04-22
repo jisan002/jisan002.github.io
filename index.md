@@ -3,15 +3,23 @@ layout: default
 title: Jisan's Homepage
 ---
 
-## Wanna get connected?
+## 👋 Welcome!
 
-📘 Facebook: [here]({{ site.facebook_url }})  
-📧 Email: [here](mailto:{{ site.email }})
+Bookmark this page to keep an eye on my latest blogs, discoveries, and projects.
 
 ---
 
-# 📁 Blog Categories
+## 🔗 Wanna get connected?
+
+📘 Facebook: [here](https://www.facebook.com/al.takvir.ahmed.jisan/)  
+📧 Email: [here](mailto:ajisan2330152@bsds.uiu.ac.bd)
+
+---
+
+## 📁 Blog Categories
+
+Click a category to see all my posts under it:
 
 - [🧠 Machine Learning](/category/ml/)
 - [🐍 Programming For Data Science](/category/python/)
-- [🚀 My thoughts and discoveries in spiritual and religious stuffs](/category/islam/)
+- [🚀 Spiritual + Religious Thoughts](/category/islam/)
