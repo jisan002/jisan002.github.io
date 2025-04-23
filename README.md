@@ -1,4 +1,4 @@
-# 👨‍💻 Jisan's Homepage
+# 👨‍💻 Jisan's ThinkLab
 
 This is my personal blog site.
 
