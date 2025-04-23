@@ -3,7 +3,8 @@ description: Bookmark this to keep an eye on my project-blog updates!
 minima:
   skin: classic
   background_image: "/assets/bg-light.jpg"
-  show_header_posts: false  
+  show_header_posts: false 
+  background_image: "/assets/images/bg.jpeg"
 baseurl: ""  
 url: "https://jisan002.github.io"
 
