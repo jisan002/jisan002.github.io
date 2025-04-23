@@ -22,4 +22,4 @@ Click a category to see all my posts under it:
 
 - [🧠 Machine Learning](/category/ml/)
 - [🐍 Programming For Data Science](/category/python/)
-- [🚀 Spiritual + Religious Thoughts](/category/islam/)
+- [🚀 My spiritual and Religious Thoughts](/category/islam/)
