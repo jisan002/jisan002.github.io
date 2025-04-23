@@ -12,14 +12,6 @@ Bookmark this page for my latest blogs and projects.
 📘 [Facebook](https://www.facebook.com/al.takvir.ahmed.jisan/)  
 📧 [Email](mailto:ajisan2330152@bsds.uiu.ac.bd)
 
----
-
-## 📚 UIU Resources
-{% for post in site.categories.uiu-resource %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
----
 
 ## 🗂️ All Categories
 - [🧠 Machine Learning](/category/ml/)
