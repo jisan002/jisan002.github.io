@@ -4,24 +4,25 @@ title: Jisan's Homepage
 ---
 
 ## 👋 Welcome!
-
-Bookmark this page to keep an eye on my latest blogs, discoveries, and projects.
-
----
-
-## 🔗 Wanna get connected?
-
-📘 Facebook: [here](https://www.facebook.com/al.takvir.ahmed.jisan/)  
-📧 Email: [here](mailto:ajisan2330152@bsds.uiu.ac.bd)
+Bookmark this page for my latest blogs and projects.
 
 ---
 
-## 📁 Blog Categories
+## 🔗 Connect
+📘 [Facebook](https://www.facebook.com/al.takvir.ahmed.jisan/)  
+📧 [Email](mailto:ajisan2330152@bsds.uiu.ac.bd)
 
-Click a category to see all my posts under it:
+---
 
+## 📚 UIU Resources
+{% for post in site.categories.uiu-resource %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
+
+---
+
+## 🗂️ All Categories
 - [🧠 Machine Learning](/category/ml/)
-- [🐍 Programming For Data Science](/category/python/)
-- [🚀 My spiritual and Religious Thoughts](/category/islam/)
-- [📚 All resources of UIU](/category/uiu-resource/)
-
+- [🐍 Python](/category/python/)
+- [🚀 Islam](/category/islam/)
+- [📚 UIU Resources](/category/uiu-resource/)
