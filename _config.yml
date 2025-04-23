@@ -2,9 +2,9 @@ title: Jisan's ThinkLab
 description: Bookmark this to keep an eye on my project-blog updates!
 minima:
   skin: classic
-  background_image: "/assets/bg-light.jpg"
-  show_header_posts: false 
   background_image: "/assets/images/bg.jpeg"
+  show_header_posts: false 
+  
 baseurl: ""  
 url: "https://jisan002.github.io"
 
