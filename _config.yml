@@ -3,9 +3,19 @@ description: Bookmark this to keep an eye on my project-blog updates!
 facebook_url: "https://www.facebook.com/al.takvir.ahmed.jisan/"
 email: "ajisan2330152@bsds.uiu.ac.bd"
 theme: jekyll-theme-minimal
-baseurl: ""
+baseurl: ""  
 url: "https://jisan002.github.io"
+
 
 collections:
   posts:
     output: true
+
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /:categories/:year/:month/:day/:title.html
