@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Proggramming For Data Science"
-date: 2025-4-23
+date: 2025-04-23
 author: "Al Takvir Ahmed Jisan"
 categories: [python]
 ---
