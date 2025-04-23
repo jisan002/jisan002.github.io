@@ -21,10 +21,9 @@ I'm **Jisan** - UIU Data Science undergrad passionate about turning ideas into r
 
 ## 📚 Knowledge Hub
 Browse by category:
-- � [Machine Learning](/category/ml) → Algorithms, models, AI
-- 🐍 [Python](/category/python) → Coding tips, libraries
+- 🐍 Programming For Data Science → [Start Your Academic Journey Here](/category/python) 
 - 📊 [UIU Resources](/category/uiu-resource) → [Question Bank](https://uiuqb.vercel.app/) • [CSE Sheet](https://docs.google.com/spreadsheets/d/1UTliZRhDHcRKNKkKnWdNQI-XiEDrxRhWsG0dguoqSEo/edit)
-- 🌙 [Islam](/category/islam) → Reflections, learnings
+- 🌙 My thoughts on spiritual and religious things → [My thoughts](/category/thoughts)
 
 ---
 
