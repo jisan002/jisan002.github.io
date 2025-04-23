@@ -23,3 +23,4 @@ Click a category to see all my posts under it:
 - [🧠 Machine Learning](/category/ml/)
 - [🐍 Programming For Data Science](/category/python/)
 - [🚀 My spiritual and Religious Thoughts](/category/islam/)
+- [All the resources I find till now, that will help the CSE and Bs Data Science Student of UIU is here](/category/UIU resources/)
