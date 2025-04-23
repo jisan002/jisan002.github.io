@@ -1,20 +1,30 @@
 ---
 layout: default
-title: Jisan's Homepage
+title: Jisan's ThinkLab
 ---
 
-## 👋 Welcome!
-Bookmark this page for my latest blogs and projects.
+## 👋 Welcome to My ThinkLab!
+Data Science undergrad | Pythonista | Explorer of data & ideas
+
+---
+
+## 📌 Featured Posts
+{% for post in site.posts limit:3 %}
+- [{{ post.title }}]({{ post.url }}) ({{ post.date | date: "%b %d, %Y" }})
+{% endfor %}
+
+[View all posts](/archive)
 
 ---
 
 ## 🔗 Connect
-📘 [Facebook](https://www.facebook.com/al.takvir.ahmed.jisan/)  
-📧 [Email](mailto:ajisan2330152@bsds.uiu.ac.bd)
+📘 [Facebook]({{ site.facebook_url }})  
+📧 [Email](mailto:{{ site.email }})
 
+---
 
-## 🗂️ All Categories
-- [🧠 Machine Learning](/category/ml/)
-- [🐍 Python](/category/python/)
-- [🚀 Islam](/category/islam/)
-- [📚 UIU Resources](/category/uiu-resource/)
+## 🗂️ Categories
+- [🧠 Machine Learning](/category/ml)
+- [🐍 Python](/category/python)
+- [🚀 Islam](/category/islam)
+- [📚 UIU Resources](/category/uiu-resource)
