@@ -3,6 +3,8 @@ description: Bookmark this to keep an eye on my project-blog updates!
 facebook_url: "https://www.facebook.com/al.takvir.ahmed.jisan/"
 email: "ajisan2330152@bsds.uiu.ac.bd"
 theme: minima
+minima:
+  show_header_posts: false  
 baseurl: ""  
 url: "https://jisan002.github.io"
 
@@ -16,6 +18,3 @@ defaults:
       layout: post
       permalink: /:categories/:year/:month/:day/:title.html
 
-  minima:
-  show_header_posts: false
-  show_drafts: false
