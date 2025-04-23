@@ -15,3 +15,7 @@ defaults:
     values:
       layout: post
       permalink: /:categories/:year/:month/:day/:title.html
+
+  minima:
+  show_header_posts: false
+  show_drafts: false
