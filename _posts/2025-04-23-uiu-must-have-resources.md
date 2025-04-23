@@ -3,8 +3,9 @@ layout: post
 title: "Must-Have Resources for CSE & Data Science Students at UIU"
 date: 2025-04-23
 author: "Al Takvir Ahmed Jisan"
-categories: uiu-resource
+categories: [uiu-resource]
 ---
+
 
 
 If you're studying **Computer Science** or **Data Science** at UIU, these resources can seriously level up your preparation—whether it’s for quizzes, midterms, or just general understanding.
