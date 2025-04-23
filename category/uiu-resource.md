@@ -3,7 +3,7 @@ layout: default
 title: UIU Resources
 ---
 
-# Machine Learning Articles
+# Blessings For UIU students.
 
 {% for post in site.categories.uiu-resource %}
 - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%b %d, %Y" }}
