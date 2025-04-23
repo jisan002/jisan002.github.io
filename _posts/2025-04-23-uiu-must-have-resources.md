@@ -7,7 +7,6 @@ categories: [uiu-resource]
 ---
 
 
-
 If you're studying **Computer Science** or **Data Science** at UIU, these resources can seriously level up your preparation—whether it’s for quizzes, midterms, or just general understanding.
 
 ---
