@@ -34,14 +34,14 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Al Takvir Ahmed Jisan
+  email: ajisan2330152@bsds.uiu.ac.bd # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/takvir102 # change to your Twitter homepage
+    - https://github.com/jisan002 # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+     - https://www.facebook.com/al.takvir.ahmed.jisan/
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/147735263?s=400&u=f6a640e1bd6748e5785ec00778e85dacedd919cb&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
