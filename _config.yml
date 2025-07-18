@@ -41,8 +41,8 @@ social:
     - https://twitter.com/takvir102 # change to your Twitter homepage
     - https://github.com/jisan002 # change to your GitHub homepage
     # Uncomment below to add more social links
-     - https://www.facebook.com/al.takvir.ahmed.jisan/
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/al.takvir.ahmed.jisan/
+    - https://www.linkedin.com/in/al-takvir-ahmed-jisan-269b1833b/
 
 # Site Verification Settings
 webmaster_verifications:
